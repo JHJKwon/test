@@ -1,3 +1,0 @@
-/**
- * Test TypeScript file
- */
